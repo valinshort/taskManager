@@ -1,10 +1,14 @@
 package com.company;
 
-public class Main {
+import java.awt.*;
+
+public class Main extends Menu{
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
 
+        Menu menu = new Menu();
 
+        System.out.println("Welcome to the task manager");
     }
 }

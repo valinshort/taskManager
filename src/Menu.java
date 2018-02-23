@@ -1,12 +1,11 @@
 
 import java.util.Scanner;
-import java.util.InputMismatchException;
 
 public class Menu {
     private String response;
 
 
-    private String response(){
+    private void response(){
         System.out.println("hi");
 
     }
